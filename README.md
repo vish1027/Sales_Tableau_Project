@@ -1,7 +1,6 @@
 # Sales_Tableau_Project
 
 
-Sure, here's how you could describe the requirements for both dashboards in a clear, straightforward manner:
 
 Sales Dashboard Requirements:
 
